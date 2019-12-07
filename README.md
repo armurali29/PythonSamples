@@ -1,2 +1,1 @@
-# PythonSamples
-# Archana's sample code
+# Sample codes for python
